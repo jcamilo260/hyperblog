@@ -10,4 +10,5 @@ Git and GitHub Learning and test
 - Conexion con github
 - Comandos basicos de linux
 - Creado por Juan Camilo
+- Incluye ejemplos en windows, linux y mac
 - Y mucho mas....
